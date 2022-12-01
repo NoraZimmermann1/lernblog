@@ -1,6 +1,6 @@
 +++
 headless = true
-name = "My Name"
+name = "Nora Zimmermann"
 image = ""
 email = ""
 +++

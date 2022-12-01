@@ -4,7 +4,7 @@ date = "2022-12-01"
 draft = true
 pinned = false
 description = "Eine Reportage über die gesellschaftliche Akzeptanz von blinden und sehbehinderten Menschen."
-footnotes = ""
+footnotes = "Autorinnen: Ava Howald und Nora Zimmermann"
 +++
 {{<lead>}}
 
@@ -64,7 +64,7 @@ Das angeregte Gespräch neigt sich langsam dem Ende zu, doch der Nachmittag ist 
 
 Jolanda erklärt, wie man den weissen Stock bewegen muss, um das eigene Gehfeld abzudecken und verschiedene Oberflächen ertasten zu können. Der weisse Stock ist leider immer noch, ein zu wenig benutztes Hilfsmittel für den Strassenverkehr. Damit können blinde und sehbehinderte Menschen allfällige Hindernisse rechtzeitig erkennen und die Bodenbeschaffenheit erfühlen. Er dient auch zum eigenen Schutz. So weiss das Umfeld, dass die Person blind oder sehbehindert ist. Durch das Aufschlagen des Stocks am Boden können Blinde auch akustisch Informationen zur Topografie der Umgebung erlangen. Um dies zu erlernen, braucht es jedoch viel Training mit Fachpersonen.
 
-![Abbildung 2: Selbstexperiment, Überquerung der Strasse. Foto: Ava Howald]()
+![Abbildung 2: Selbstexperiment, Überquerung der Strasse. Foto: Ava Howald](strasse_optimized_optimized_optimized-2-.jpeg)
 
 Nora orientiert sich, indem sie den Stock immer wieder über eine Rinne am Strassenrand führt. Auf den Beinen geht sie noch etwas wacklig und sie fühlt sich unsicher. Hin und wieder fragt Jolanda, was Nora in ihrer unmittelbaren Umgebung bemerkt und was sie alles wahrnimmt. Nora muss jedes Mal ehrlicherweise zugeben, dass ihr nichts Spezielles auffällt. Auch dass unser Experiment Aufsehen erregt hat und eine Mutter mit ihrem Kind einige Minuten mitgelaufen ist, bemerkte Nora nicht. Wir kommen zu einer Kreuzung. Beim Überqueren der Strasse müssen Jolanda und Nora gut hinhören, zum Glück erkennt Jolanda sofort, wenn sich ein Auto nähert. Elektroautos machen das Ganze aber viel schwieriger, weil sie weniger laut sind. Jolanda hält ihren Stock hoch, damit die Autofahrer*innen wissen, dass wir die Strasse überqueren wollen und deshalb anhalten. Denn Menschen mit einem weissen Stock haben immer Vortritt, auch wenn es keinen Fussgängerstreifen hat.
 
@@ -78,7 +78,7 @@ In der Migros fallen uns besonders die verschiedenen Gerüche auf. Man kann zum 
 
 Auf dem Rückweg zu Jolandas Wohnung sind wir beide sehend und schätzen dieses Privileg. Jolanda hat sich bei Nora eingehakt und wir tauschen uns über das Erlebte aus.
 
-![Abbildung 4: Abendspaziergang. Foto: Ava Howald]()
+![Abbildung 4: Abendspaziergang. Foto: Ava Howald](heimweg_optimized.jpeg)
 
 Als erstes erzählt uns Jolanda, dass sie gerade stolz auf sich sei, weil sie das erste Mal ohne Hund den Weg in die Migros gefunden habe. Wir bemerken erneut, was für eine Herausforderung das Gehen einer Strecke für einen blinden Menschen darstellt. Jolanda kennt zwar sehr viele verschiedene Wege, aber diese musste sie alle zuerst mühsam erlernen. Den Weg zurück zu Jolandas Wohnung haben wir aber gut gefunden. Ezra erwartet uns schon freudig Zuhause. Wir verabschieden und bedanken uns bei Ezra und Jolanda und begeben uns auf den Weg zur Bushaltestelle.
 

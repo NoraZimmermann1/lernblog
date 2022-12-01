@@ -1,7 +1,7 @@
 +++
 title = "\"Akzeptanz ja, Integration nein\""
 date = "2022-12-01"
-draft = true
+draft = false
 pinned = false
 image = "repo.jpg"
 description = "Eine Reportage über die gesellschaftliche Akzeptanz von blinden und sehbehinderten Menschen."

@@ -1,7 +1,7 @@
 +++
 headless = true
 title = "Nora Zimmermann"
-description = "A Journey of Life and Learning"
+description = "Schülerin des Gymnasiums Kirchenfeld"
 footerLeft = ""
 footerRight = ""
 +++

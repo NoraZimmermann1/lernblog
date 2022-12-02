@@ -15,7 +15,7 @@ Wie gut sind blinde und sehbehinderte Menschen in unsere Gesellschaft integriert
 
 Es ist ein Mittwochnachmittag. Wir, Ava und Nora, sind auf dem Weg nach Ostermundigen zu Jolanda Gehri. Wir sind zwei junge Gymnasiastinnen, die sich für gesellschaftliche Themen interessieren. Beide haben jedoch keinen persönlichen Bezug zum Thema Blindheit. Wir gehen durch eine kleine Siedlung und suchen den Eingang zu ihrer Wohnung. Wir schauen uns im Wohnblock um und fragen einige Bewohner*innen, wo Jolanda Gehri wohnt. “Die Wohnung im ersten Stock», heisst es, «die mit den vielen Pflanzen gehört Jolanda». Schlussendlich stehen wir vor einer Tür und tatsächlich, Jolandas Eingangsbereich ist mit Pflanzen überfüllt. Neben der Klingel entdecken wir ein Schild. Darauf steht «Hier wohnt Ezra. Begrüssungsregeln für Besucher». Ezra ist Jolandas Blindenführhündin, wie sich gleich herausstellt. Es ist wichtig, sich bei ihr an bestimmte Regeln zu halten, deshalb stehen sie auch gleich auf dem Schild neben der Klingel. Eine Begrüssungsregel ist zum Beispiel, dass man Ezra nicht beachten oder direkt ansprechen soll. Denn Blindenführhunde dürfen nicht abgelenkt werden, wenn sie ein Führgeschirr tragen, damit sie ihre Arbeit konzentriert und sicher durchführen können.
 
-![Abbildung 1: Blindenhündin Ezra. Foto: Ava Howald](ezra.jpeg)
+![Abbildung 1: Blindenführhündin Ezra. Foto: Ava Howald](ezra.jpeg)
 
 Wir wissen, dass wir an der richtigen Tür stehen. Ava klingelt und wir hören Hundegebell. Nach einigen Sekunden öffnet sich die Tür, Jolanda und Ezra stehen vor uns. Beide begrüssen uns herzlich. Jolanda bittet uns hinein und wir setzen uns zu dritt an den Küchentisch. Ezra läuft uns währenddessen freudig um die Füsse.
 

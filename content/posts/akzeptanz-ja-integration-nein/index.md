@@ -3,6 +3,7 @@ title = "\"Akzeptanz ja, Integration nein\""
 date = "2022-12-01"
 draft = false
 pinned = false
+tags = ["Deutsch", "Reportage"]
 image = "repo.jpg"
 description = "Eine Reportage über die gesellschaftliche Akzeptanz von blinden und sehbehinderten Menschen."
 footnotes = "Autorinnen: Ava Howald und Nora Zimmermann"

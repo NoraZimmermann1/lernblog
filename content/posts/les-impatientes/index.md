@@ -12,11 +12,11 @@ Djaïli Amadou Amal est l'auteure du livre "les impatientes". Elle est une écri
 
 #### Résumé
 
+#### Extrait
 
+Après un silence, mon père reprend sur le même ton grave et autoritaire: "À partir de maintenant, vous appartenez chacune à votre époux et lui devez une soumission totale, instaurée par Allah. Sans sa permission, vous n'avez pas le droit de sortir ni même celui d'accourir à mon chevet! Ainsi, et à cette seule condition, vous serez des épouses accomplies!"
 
-#### Citation / Extrait
-
-"À partir de maintenant, vous appartenez
+Dans cette extrait 
 
 #### Mon avis
 

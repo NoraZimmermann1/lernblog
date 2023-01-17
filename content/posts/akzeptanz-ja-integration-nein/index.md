@@ -60,7 +60,7 @@ Jolanda ist überzeugt, dass Selbsterfahrungen der beste Weg sind, um mit dem Th
 >
 > \-Jolanda Gehri
 
-## Orientierungslos auf dem Weg zu neuen Erkenntnisse
+## Orientierungslos auf dem Weg zu neuen Erkenntnissen
 
 Das angeregte Gespräch neigt sich langsam dem Ende zu, doch der Nachmittag ist noch lange nicht beendet. Wir werden nun in unserem Selbstexperiment spüren, wie es ist, blind zu sein. Jolanda erklärt uns den Plan und wir werden ein wenig nervös. Nora erhält eine Dunkelbrille, damit sie nichts sehen kann und einen weissen Langstock für die Orientierung in die Hand gedrückt. Ava soll unterdessen auf Nora aufpassen. Wir machen uns auf den Weg in die Migros Ostermundigen, um dort einkaufen zu gehen. Auf halbem Weg und nochmals im Einkaufszentrum werden wir die Rollen tauschen.
 

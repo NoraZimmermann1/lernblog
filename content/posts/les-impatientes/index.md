@@ -23,4 +23,4 @@ Cet extrait montre ce que le père dit à Ramla et Hindou avant le mariage. On y
 
 #### Mon avis
 
-J'aime le lecture trés bien et je le recommande. Le livre n'est pas très difficile à écrire et il est passionnant à lire. Je pense aussi que c’est très important de voir que les femmes sont encore aujourd'hui traitées horriblement. Il est important que plus de gens lisent ce livre.
+J'aime la lecture trés bien et je la recommande. Le livre est passionnant à lire et assez bien à comprendre. Je pense aussi que c’est très important de voir que les femmes sont encore aujourd'hui traitées horriblement. Il est important que plus de gens lisent ce livre.
